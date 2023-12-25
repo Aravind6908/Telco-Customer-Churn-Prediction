@@ -306,7 +306,10 @@ After the exploratory analysis, these are the columns/features from all the tabl
 11. Payment Method - Categorical Variable
 12. CLTV - Numerical Variable
 
-Lets join all these tables to create master table with the selected columns.
+
+
+After applying the logistic regression model for classifying the training the data below are models metrics....
+
 
 1. Accuracy: 0.7928
 The model correctly predicted the class of approximately 79.28% of instances in the dataset.
